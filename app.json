@@ -1,0 +1,9 @@
+{
+    "name": "7.0 Funcional",
+    "env": {
+        "TELEGRAM_TOKEN": {
+            "description": "el token del bot de telegram que te da https://t.me/BotFather",
+            "value": "5181538678:AAH27pwzyZendM2yIuJ4UpJHxVx2CBLHpIg"
+        }
+    }
+}

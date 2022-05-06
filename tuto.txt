@@ -1,0 +1,31 @@
+💜Bienvenid@ al tutorial de 7.0 UPLOADED BOT💜
+
+✅En este tutorial le mostraré todos los comandos disponibles en el bot junto con la explicación de cada uno de ellos, comencemos:
+
+💟/start : Bueno esto es más que obvio, este comando es para iniciar el bot, pero ya eso debes saberlo 😅.
+
+💟/tutorial : Con este comando el bot te enviará este tutorial que estás leyendo en estos momentos 👌.
+
+💟/myuser : Muestra la configuración👤 actual del bot. Aquí podrás ver cuál moodle tienes configurada, las credenciales de la cuenta que estás usando y las configuraciones de subida actuales del bot.
+
+💟/host : Configura la moodle que vayas a usar en el bot (ejemplo: https://moodle.uclv.edu.cu/ )... Ojo, observa bien cómo se envía la dirección🔗 de la moodle, si no lo haces cómo se muestra aquí, el bot podría enviarte un error a la hora de subir archivos.
+
+💟/account : Con este comando configuras la cuenta🔐 de la moodle que hayas puesto en el host. La forma correcta es esta: usuario,contraseña... Observa bien que hay una coma (,) entre los dos valores, muy importante eso.
+
+💟/repoid : Establece el REPOID de la moodle que vas a usar. Si no tienes conocimiento🤷‍♂️ sobre esto puedes preguntar en grupos dónde hablen del tema de los bots, o preguntar directamente al que te alquiló/vendió este bot.
+
+💟/uptype : Elegir el tipo de subida🆙 que desas emplear en el bot. Los valores disponibles son: draft - evidence - blog - calendar...Si no entiende sobre este tema pregunte igualmente.
+
+💟/cloud : Se usa para configurar el tipo de☁️ nube/moodle que va a usar en el bot. Existen dos opciones, (moodle) para todo tipo de Moodles y (cloud) en el caso de que vayas a usar alguna Nextcloud.
+
+💟/proxy : Añade un proxy nacional🇨🇺 a tu bot para poder usar Moodles y Nextclouds que no permiten el acceso desde el exterior.
+
+💟/dir : Este comando sólo se usa en el caso de que vayas a subir a alguna Nextcloud. Se usa para elegir dentro de qué carpeta📁 deseas que se suban los archivos a la Nube.
+
+💟/files : Muestra en un mensaje una lista de los archivos que tienes subidos a tu cuenta. Ojo 👀 esto solo funciona con Moodles, no con Nubes Nextclouds.
+
+💟/zips : Configura el tamaño de los zips que empleará el bot para subir a las nubes. Debes averiguar🤔 cuál es el tamaño máximo de archivo que acepta la Moodle/Nextcloud que vayas a usar, para evitar errores en la subida.
+
+💟/tokenize_on - tokenize_off : Estos comandos por el momento no cumplen ninguna función en el bot. Por favor evite❌ usarlos para evitar inconvenientes.
+
+💟/adduser - /banuser - /getdb : Son comandos que solo puede usar el admin/dueño del bot. No❌ los use sin necesidad.
